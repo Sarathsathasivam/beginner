@@ -1,7 +1,7 @@
 n=int(raw_input())
-  if n == 0:
+if n == 0:
     print ("Zero")
-  elif n > 0:
+elif n > 0:
     print ("Positive")
-  else :
+else :
     print ("Negative")
